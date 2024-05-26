@@ -96,7 +96,7 @@ nav {
   position: absolute;
   top: 0;
   right: 0;
-  color: #1B90DD;
+  color: #00b4d8;
   cursor: pointer;
   font-weight: bold;
 }
@@ -107,7 +107,7 @@ nav {
 }
 
 .cart-modal{
-  border: 3px solid #1B90DD;
+  border: 3px solid #00b4d8;
 }
 .red-text.text-lighten-1{
   color: #A5DBFF !important;
@@ -124,37 +124,37 @@ nav {
 }
 
 .progress .indeterminate{
-  background-color: #1B90DD;
+  background-color: #00b4d8;
 }
 .progress .indeterminate::after{
-  background-color: #1B90DD;
+  background-color: #00b4d8;
 }
 .progress .indeterminate::before{
-  background-color: #1B90DD;
+  background-color: #00b4d8;
 }
 .teal{
-  background-color: #1B90DD;
+  background-color: #00b4d8;
 }
 .teal.lighten-1{
-  background-color: #1B90DD !important;
+  background-color: #00b4d8 !important;
 }
 .btn, .btn-large, .btn-small{
-  background-color: #1B90DD;
+  background-color: #00b4d8;
 }
 .btn, .btn-large, .btn-small:hover{
   background-color: #A5DBFF;
 }
 .btn, .btn-large, .btn-small:after{
-  background-color: #1B90DD;
+  background-color: #00b4d8;
 }
 .btn, .btn-large, .btn-small:focus{
-  background-color: #1B90DD;
+  background-color: #00b4d8;
 }
 .cart-icon{
   background-color: #A5DBFF;
 }
 p{
-  color: #1B90DD !important;
+  color: #00b4d8 !important;
 }
 .progress{
   background-color: #A5DBFF;
