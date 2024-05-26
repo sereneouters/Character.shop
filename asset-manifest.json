@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Character.shop/static/css/main.f6c03f9b.css",
+    "main.js": "/Character.shop/static/js/main.65649d09.js",
+    "static/media/fortnitebattlefest.ttf": "/Character.shop/static/media/fortnitebattlefest.9a279d22f71f6f08e0e5.ttf",
+    "index.html": "/Character.shop/index.html",
+    "main.f6c03f9b.css.map": "/Character.shop/static/css/main.f6c03f9b.css.map",
+    "main.65649d09.js.map": "/Character.shop/static/js/main.65649d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c03f9b.css",
+    "static/js/main.65649d09.js"
+  ]
+}
