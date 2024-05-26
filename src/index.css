@@ -96,21 +96,21 @@ nav {
   position: absolute;
   top: 0;
   right: 0;
-  color: #2ccd16;
+  color: #1B90DD;
   cursor: pointer;
   font-weight: bold;
 }
 
 .cart-item-delete {
   cursor: pointer;
-  color:  #7fea8a;
+  color:  #A5DBFF;
 }
 
 .cart-modal{
-  border: 3px solid #2ccd16;
+  border: 3px solid #1B90DD;
 }
 .red-text.text-lighten-1{
-  color: #7fea8a !important;
+  color: #A5DBFF !important;
 }
 
 .show-alert {
@@ -118,44 +118,44 @@ nav {
   z-index: 100;
   right: 60px;
   top: 10px;
-  background-color: #7fea8a;
+  background-color: #A5DBFF;
   color: #fff;
   padding: 10px;
 }
 
 .progress .indeterminate{
-  background-color: #2ccd16;
+  background-color: #1B90DD;
 }
 .progress .indeterminate::after{
-  background-color: #2ccd16;
+  background-color: #1B90DD;
 }
 .progress .indeterminate::before{
-  background-color: #2ccd16;
+  background-color: #1B90DD;
 }
 .teal{
-  background-color: #2ccd16;
+  background-color: #1B90DD;
 }
 .teal.lighten-1{
-  background-color: #2ccd16 !important;
+  background-color: #1B90DD !important;
 }
 .btn, .btn-large, .btn-small{
-  background-color: #2ccd16;
+  background-color: #1B90DD;
 }
 .btn, .btn-large, .btn-small:hover{
-  background-color: #7fea8a;
+  background-color: #A5DBFF;
 }
 .btn, .btn-large, .btn-small:after{
-  background-color: #2ccd16;
+  background-color: #1B90DD;
 }
 .btn, .btn-large, .btn-small:focus{
-  background-color: #2ccd16;
+  background-color: #1B90DD;
 }
 .cart-icon{
-  background-color: #7fea8a;
+  background-color: #A5DBFF;
 }
 p{
-  color: #2ccd16 !important;
+  color: #1B90DD !important;
 }
 .progress{
-  background-color: #7fea8a;
+  background-color: #A5DBFF;
 }
