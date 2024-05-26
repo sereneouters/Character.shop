@@ -3,7 +3,7 @@ export default function Header(props) {
         <header>
             <nav className="teal lighten-1">
                 <div className="nav-wrapper container">
-                    <a className="brand-logo center">FORTNITE.SHOP</a>
+                    <a className="brand-logo center">CHARACTER.SHOP</a>
                 </div>
             </nav>
         </header>
